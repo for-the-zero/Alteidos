@@ -10,12 +10,12 @@
 
 ## 展示
 
-![](./ZERO - v1/素材/立绘1.png) ![](./ZERO - v1/素材/原图.png)
+![](./ZERO-v1/素材/立绘1.png) ![](./ZERO-v1/素材/原图.png)
 
 ## 角色
 
 - ZERO: <ruby>我<rt>for_the_zero</rt></ruby>的化身
-- - [v1](./ZERO - v1/README.md)：最初的版本
+- - [v1](./ZERO-v1/README.md)：最初的版本
 
 ## 项目文件
 
