@@ -16,6 +16,7 @@
 
 - ZERO: <ruby>我<rt>for_the_zero</rt></ruby>的化身
 - - [v1](./ZERO-v1/README.md)：最初的版本
+- Lofelv: 未完成的一个新角色，现在这里占一下位
 
 ## 项目文件
 
