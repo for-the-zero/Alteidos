@@ -1,6 +1,8 @@
 # Alteidos
 
-一个新的<ruby>OC系列<rt>皮套</rt>，代号Alteidos，作为虚拟世界躯壳，希望大家喜欢~
+一个新的<ruby>个人形象<rt>皮套</rt></ruby>，代号Alteidos，作为躯壳，希望大家喜欢~
+
+可以到[Disscussion](https://github.com/for-the-zero/Alteidos/discussions/categories/%E4%BA%8C%E5%88%9B-%E5%88%86%E4%BA%AB)中讨论哦
 
 <details><summary>关于Alteidos这个名字……</summary>
 
@@ -10,22 +12,15 @@
 
 ## 展示
 
-![](./ZERO-v1/素材/立绘1.png) ![](./ZERO-v1/素材/原图.png)
+![](./v1/立绘1.png)![](./壁纸/触摸雨点.png)
 
-## 角色
+## 版本与文件
 
-- ZERO: <ruby>我<rt>for_the_zero</rt></ruby>的化身
-- - [v1](./ZERO-v1/README.md)：最初的版本
-- Lofelv: 未完成的一个新角色，现在这里占一下位
+根目录下有多个文件夹：
+- [`v1`](./v1/README.md)：v1版本的Alteidos
+- `更多`：更多的角色
+- [`壁纸`](./壁纸)：在这些角色的基础上生成的壁纸
 
-## 项目文件
-
-在每个角色/版本的文件夹里面都有：
-
-- 文件夹`素材`为一些相关的图片
-- 文件夹`素材/原始`为素材的原始图片
-- 文件夹`素材/透明`为这些图片抠图后的png图片
-- 文件夹`其它`为是一些其它的文件
 
 ## 二创
 
