@@ -1,12 +1,20 @@
-# Lofelv v1
+# Lofelv v1 (Nightly ver.)
 
 (还没做好先占个位)
 
 ## 展示
 
+![](./立绘.png)
+
+当前还是Nightly版本，我并不满意这个版本
+
 ## 设定
 
+后面再补
+
 ## LeR Soul
+
+后面再补
 
 ## LeR Soul Simu.Ver.
 
