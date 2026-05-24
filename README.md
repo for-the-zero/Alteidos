@@ -12,13 +12,15 @@
 
 ## 展示
 
-![](./v1/立绘.png)![](./壁纸/触摸雨点.png)
+![](./v1.0-[Quievis]/立绘.png)![](./壁纸/触摸雨点.png)
 
 ## 版本与文件
 
 根目录下有多个文件夹：
-- [`v1`](./v1/README.md)：v1版本的Alteidos
+- [`v1.0-[Quievis]`](./v1.0-[Quievis]/README.md)：最初版本的Alteidos，皮肤名为Quievis
+- [`v1.1-[Velotux]`](./v1.1-[Velotux]/README.md)：皮肤名为Velotux的Alteidos
 - `更多`：更多的角色
+- - [`Lofelv`](./更多/Lofelv/README.md)：一个额外的附加的角色Lofelv
 - [`壁纸`](./壁纸)：在这些角色的基础上生成的壁纸
 
 
@@ -32,7 +34,7 @@
 
 相关项目：云游君的[小云](https://github.com/YunYouJun/yun)
 
-多多访问我的个人网站[ftz.is-a.dev](https://ftz.is-a.dev/)或[ftz.cc.cd](https://ftz.cc.cd/)
+同时也请多多访问我的个人网站[ftz.is-a.dev](https://ftz.is-a.dev/)或[ftz.cc.cd](https://ftz.cc.cd/)
 
 <details><summary>Why Github?</summary>
 
