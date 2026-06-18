@@ -1,4 +1,4 @@
-# Alteidos v1.1 (Velotux) (Preview)
+# Alteidos (Velotux)
 
 Alteidos躯体的新时装——<ruby>Velotux<rt>Velox + Motus</rt></ruby>
 

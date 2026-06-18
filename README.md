@@ -17,10 +17,9 @@
 ## 版本与文件
 
 根目录下有多个文件夹：
-- [`v1.0-[Quievis]`](./v1.0-[Quievis]/README.md)：最初版本的Alteidos，皮肤名为Quievis
-- [`v1.1-[Velotux]`](./v1.1-[Velotux]/README.md)：皮肤名为Velotux的Alteidos
-- `更多`：更多的角色
-- - [`Lofelv`](./更多/Lofelv/README.md)：一个额外的附加的角色Lofelv
+- [`Attire-[Quievis]`](./Attire-[Quievis]/README.md)：最初版本的Alteidos，皮肤名为Quievis
+- [`Attire-[Velotux]`](./Attire-[Velotux]/README.md)：皮肤名为Velotux的Alteidos
+- [`Other-[Lofelv]`](./Other-[Lofelv]/README.md)：一个额外的附加的角色Lofelv
 - [`壁纸`](./壁纸)：在这些角色的基础上生成的壁纸
 
 

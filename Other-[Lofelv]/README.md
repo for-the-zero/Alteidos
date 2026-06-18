@@ -1,4 +1,4 @@
-# Lofelv v1 (Preview)
+# Lofelv
 
 ## 设定
 

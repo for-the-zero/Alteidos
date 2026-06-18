@@ -1,4 +1,4 @@
-# Alteidos v1
+# Alteidos
 
 for_the_zero在互联网的一个化身
 
