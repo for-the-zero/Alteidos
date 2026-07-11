@@ -2,7 +2,7 @@
 
 一个新的<ruby>个人形象<rt>皮套</rt></ruby>，代号Alteidos，作为躯壳，希望大家喜欢~
 
-可以到[Disscussion](https://github.com/for-the-zero/Alteidos/discussions/categories/%E4%BA%8C%E5%88%9B-%E5%88%86%E4%BA%AB)中讨论哦
+可以到[Disscussion](https://github.com/for-the-zero/for-the-zero.github.io/discussions/categories/alteidos)中讨论哦
 
 <details><summary>关于Alteidos这个名字……</summary>
 
